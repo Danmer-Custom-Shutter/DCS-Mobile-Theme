@@ -495,7 +495,9 @@ div#content img.page-thumbnail
 	display:block;
 }
 
-div#widgets a.red-button
+div#widgets a.red-button,
+a.red-button.local-tel,
+a.red-button.get-a-quote
 {
 	display:block;
 	font-size:12px;
